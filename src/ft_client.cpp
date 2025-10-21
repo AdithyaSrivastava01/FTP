@@ -4,7 +4,7 @@
 #include <sys/time.h>
 #include <sys/types.h>
 #include <unistd.h>
-
+#include <math.h>
 #include <chrono>
 #include <cstdio>
 #include <cstdlib>
