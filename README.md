@@ -1,4 +1,4 @@
-# Fast, Reliable UDP File Transfer (Fresh Implementation)
+# Fast, Reliable UDP File Transfer
 
 This is a clean-room implementation of a UDP-based, reliable file transfer tool
 designed for EE 542 Lab 2. It uses a simple custom protocol (INFO/DATA/NACK/FIN)
